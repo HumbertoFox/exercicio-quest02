@@ -1,0 +1,124 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.main .informacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 402px;
+    color: #FFF;
+    gap: 10px;
+}
+
+.main .informacao h1 {
+    display: flex;
+    width: 300px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.main .informacao p {
+    display: flex;
+    width: 300px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main .form p {
+    align-self: flex-start;
+    margin: 10px 0 10px 15px;
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fonts {
+    width: 298px;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #FFF;
+    padding: 10px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.textarea {
+    height: 100px;
+    resize: none;
+}
+
+.fonts[type=submit] {
+    color: #FFF;
+    background-color: #3CCC87;
+    border: none;
+    cursor: pointer;
+}
+
+.fonts::placeholder {
+    color: #A8A8A8;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/bg-repeat.jpg);
+    background-size: contain;
+    color: #FFF;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 340px;
+    min-height: 378px;
+    margin: 12px 50px 12px 0;
+    background-color: #FFF;
+}
+
+.main .form .normal {
+    display: flex;
+    align-self: start;
+    margin: 0 0 5px 23px;
+    color: #FFF;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main .form .avisoinputerror {
+    border: #F52E2E solid 1px;
+}
+
+.main .form .avisoerror {
+    color: #F52E2E;
+}
+
+.main .form .avisoinputok {
+    border: #00C22B solid 1px;
+}
