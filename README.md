@@ -23,6 +23,11 @@
 <img src="https://github.com/HumbertoFox/repository/assets/126817628/e636c665-7bc3-43e1-8379-628748c6bbec" width="500px"/>
 <img src="https://github.com/HumbertoFox/repository/assets/126817628/60a9ace9-0289-49ef-af02-67e9e9bcbcc0" width="500px"/>
 
+## Layout do projeto com responsive em tela mobile!
+
+<img src="https://github.com/HumbertoFox/repository/assets/126817628/72c9a6c3-c35b-4112-b26b-25dcc36c19f3" width="250px"/>
+<img src="https://github.com/HumbertoFox/repository/assets/126817628/bf1bc9eb-d2c1-4e2d-8433-423f60c7bb82" width="250px"/>
+
 ## Desenvolvido em:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
