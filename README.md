@@ -25,8 +25,9 @@
 
 ## Layout do projeto com responsive em tela mobile!
 
-<img src="https://github.com/HumbertoFox/repository/assets/126817628/72c9a6c3-c35b-4112-b26b-25dcc36c19f3" width="250px"/>
 <img src="https://github.com/HumbertoFox/repository/assets/126817628/bf1bc9eb-d2c1-4e2d-8433-423f60c7bb82" width="250px"/>
+<img src="https://github.com/HumbertoFox/repository/assets/126817628/72c9a6c3-c35b-4112-b26b-25dcc36c19f3" width="250px"/>
+<img src="https://github.com/HumbertoFox/repository/assets/126817628/e6f13de7-b518-47f2-8c73-1a5e273c86b8" width="250px"/>
 
 ## Desenvolvido em:
 <div>
